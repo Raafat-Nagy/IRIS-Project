@@ -1,5 +1,7 @@
 # [**IRIS Flower Prediction App**](https://iris-flowers-prediction.streamlit.app)
 
+![iris-flowers](app/images/iris-flowers.jpg)
+
 This repository contains a machine learning project focused on predicting the species of an Iris flower based on its sepal and petal dimensions. The project uses the famous **Iris dataset** and implements a **Streamlit** web app for users to interactively make predictions.
 
 ## **Project Structure**
